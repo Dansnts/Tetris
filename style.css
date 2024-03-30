@@ -1,0 +1,18 @@
+/* Style for the canvas */
+canvas {
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+    background-color: darkslategrey; /* Set canvas background color */
+}
+
+/* Additional styles for html and body */
+html, body {
+    background-color: darkslategrey; /* Set background color for html and body */
+}
+
+/* Additional style for specific canvas with ID */
+canvas#id {
+    width: 600px;
+    height: 600px;
+}
